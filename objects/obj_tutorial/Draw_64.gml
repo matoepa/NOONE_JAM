@@ -1,0 +1,1 @@
+draw_text(325, 650, "Use o mouse para mover os slimes, sobriviva o maximo de tempo que conseguir")
